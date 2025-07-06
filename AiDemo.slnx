@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AiDemo/AiDemo.csproj" />
+  <Project Path="AiDemo.KernelMemory/AiDemo.KernelMemory.csproj" />
+  <Project Path="AiDemo.Mcp/AiDemo.Mcp.csproj" />
+</Solution>

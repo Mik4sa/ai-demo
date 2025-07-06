@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "All",
+    "Projects": [
+      {
+        "Path": "AiDemo\\AiDemo.csproj",
+        "Action": "Start",
+        "DebugTarget": "AiDemo"
+      },
+      {
+        "Path": "AiDemo.KernelMemory\\AiDemo.KernelMemory.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "AiDemo.Mcp\\AiDemo.Mcp.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      }
+    ]
+  }
+]
